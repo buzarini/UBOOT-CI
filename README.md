@@ -1,4 +1,4 @@
-# UBOOT-CI
+# UBOOT-CI-AX3000T
 云编译UBOOT固件
 
 UBOOT源码：
